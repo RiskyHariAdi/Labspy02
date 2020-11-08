@@ -18,7 +18,7 @@ for bar in range(baris):
         print("{0:>5} ".format(tab),end='')
     print()
 ```
-**Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan** 
+**Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan** <br>
 ```
 for bar in range(baris):
     for col in range(kolom):
@@ -26,45 +26,45 @@ for bar in range(baris):
         print("{0:>5} ".format(tab),end='')
     print()
 ```
-**dan karena pada syntax tersebut kamu membutuhkan baris dan kolom maka sebelum memasukan syntax diatas kamu perlu menambahkan keterangan baris dan kolom sesuai yang kalian butuhkan seperti ini.**
+**dan karena pada syntax tersebut kamu membutuhkan baris dan kolom maka sebelum memasukan syntax diatas kamu perlu menambahkan keterangan baris dan kolom sesuai yang kalian butuhkan seperti ini.** <br>
 ```
 baris = 10
 kolom = baris
 ```
-**Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini**
+**Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini** <br>
 ![hasilrun](foto/hasilrun.png)
 
- Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas oleh dosen saya yaitu 
+**Pada pertemuan 7 tugas PPT ke-2 ini, saya diberikan beberapa tugas oleh dosen saya yaitu** <br> 
 
 ![pratikumdua](foto/pratikumdua.png)
 
-untuk mencari sebuah nilai maksimal dari 3 data yang sebelumnya telah diinput, dan setelah mendapat nilai 
+**untuk mencari sebuah nilai maksimal dari 3 data yang sebelumnya telah diinput, dan setelah mendapat nilai 
 maksimalnya, dirubah menjadi dalam 
-sebuah bentuk flowchart.
+sebuah bentuk flowchart.** <br>
 
 ## TUGAS PRAKTIKUM 2
 ##### MENGINPUT DATA DAN MENCARI NILAI MAX
 ________________________________________________________________________________________
-Pertama-tama disini saya akan mencoba untuk menginput 3 data dengan menggunakan syntax berikut terlebih dahulu.
+**Pertama-tama disini saya akan mencoba untuk menginput 3 data dengan menggunakan syntax berikut terlebih dahulu.** <br>
 ```python
 a = int(input("Masukkan bilangan 1: "))
 b = int(input("Masukkan bilangan 2: "))
 c = int(input("Masukkan bilangan 3: "))
 ```
-Masukan syntax tersebut dengan angka yang kalian inginkan. 
+**Masukan syntax tersebut dengan angka yang kalian inginkan.** <br>
 
 ![syntaxbilangan](foto/syntaxbilangan.png)
 
-Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil menginput ketiga data tersebut. 
+**Jika sudah mendapat tampilan seperti gambar diatas, maka kalian sudah berhasil menginput ketiga data tersebut.** 
 <br>
 
-Langkah selanjutnya adalah mencari tahu nilai terbesar (max) dari ketiga data tersebut. Sebelum memulainya 
+**Langkah selanjutnya adalah mencari tahu nilai terbesar (max) dari ketiga data tersebut. Sebelum memulainya 
 kalian harus memasukan terlebih 
-dahulu berapa jumlah data yang akan kalian kerjakan dari ketiga data tersebut dengan syntax <br>
+dahulu berapa jumlah data yang akan kalian kerjakan dari ketiga data tersebut dengan syntax** <br>
 ```python
 N=int(input("banyaknya data = "))
 ```
-Karena disini saya diberi tugas mencari nilai max dari ketiga data maka saya akan menggunkan semua data diatas.
+**Karena disini saya diberi tugas mencari nilai max dari ketiga data maka saya akan menggunkan semua data diatas.** <br>
 
 ```python
 if N>0:
@@ -79,14 +79,14 @@ if N>0:
 
     print("bilangan terbesar =",max)
 ```
-Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan 
+**Selanjutnya kalian bisa langsung  memasukan syntax ini untuk melengkapi syntax diatas supaya bisa berjalan 
 dengan baik seperti pada gambar 
-dibawah ini.
+dibawah ini.** <br>
 
 ![banyaknyadata](foto/banyakdata.png)
 
-Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan 
-syntax
+**Maka jika digabungkan, cara untuk mencari nilai max dari ketiga data yang diinputkan adalah dengan menggunakan 
+syntax** <br>
 ```python
 N=int(input("banyaknya data = "))
 if N>0:
@@ -101,38 +101,38 @@ if N>0:
 
     print("bilangan terbesar =",max)
 ```
-Seperti inilah hasil akhirnya 
+**Seperti inilah hasil akhirnya** <br>
 
 ![banyaknyabilangan](foto/banyaknyabilangan.png)
 
 ## MERUBAH DATA DIATAS MENJADI DALAM BENTUK FLOWCHART
 __________________________________________________________________________________
-Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk 
-flowchart seperti ini
+**Setelah kalian mendapatkan semua data diatas langkah selanjutnya adalah mengubahnya menjadi dalam bentuk 
+flowchart seperti ini** <br>
 
 ![flowchart](foto/flowchart.png)
 
-Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. 
+**Untuk bisa mendapatkan hasil flowchart diatas, maka kalian harus mendownload flowgorithm terlebih dahulu. 
 Download lah pada web resminya yaitu :[clickHere](http://www.flowgorithm.org/download/)
-
-Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
+Download lah yang sesuai dengan laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.** <br>
 
 ![web](foto/web.png)
 
-Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
+**Setelah mendapat tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya** <br>
 
 ![webdua](foto/webdua.png)
 
-Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
+**Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.** <br>
 
-Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian hanya perlu mengecek apakah 
+**Jika kalian sudah mengerjakannya hingga akhir, maka step akhir adalah kalian hanya perlu mengecek apakah 
 flowchart tersebut sudah bekera dengan
-baik atau belum dengan cara sebagai berikut
+baik atau belum dengan cara sebagai berikut** <br>
 
 ![bilanganflowchart](foto/bilanganflowchart.png)
 
-Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian 
+**Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian 
 buat sudah benar dan bekerja 
-dengan baik.
+dengan baik.** <br>
 
 ![youtube](foto/youtube.png)
+## TERIMA KASIH 
