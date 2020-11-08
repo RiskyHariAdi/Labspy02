@@ -134,3 +134,5 @@ baik atau belum dengan cara sebagai berikut
 Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian 
 buat sudah benar dan bekerja 
 dengan baik.
+
+![youtube](foto/youtube.png)
