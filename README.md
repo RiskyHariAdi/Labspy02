@@ -1,4 +1,5 @@
 # Labspy02
+![logo](foto/logo.png)
 #### NAMA: RISKY HARIADI <br>
 #### KELAS: TI. 20. A. 1 <br>
 #### NIM: 312010124 <br>
@@ -133,6 +134,6 @@ baik atau belum dengan cara sebagai berikut** <br>
 **Jika sudah me 'run' berkali kali dan mendapatkan jawaban sama yang sesuai itu berbarti flowchart yang kalian 
 buat sudah benar dan bekerja 
 dengan baik.** <br>
-
+###JANGAN LUPA UNTUK LIKE AND SUBSCRIBE
 ![youtube](foto/youtube.png)
 ## TERIMA KASIH 
